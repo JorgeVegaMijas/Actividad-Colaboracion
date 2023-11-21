@@ -6,7 +6,7 @@ public class triangulo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("dime la base del triangulo");
+        System.out.println("Base del triángulo");
         int base = sc.nextInt();
         
         System.out.println("dime la altura del triangulo");
