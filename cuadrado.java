@@ -13,6 +13,7 @@ public class cuadrado {
         
         System.out.println("dime la altura del rectangulo");
         int altura = sc.nextInt();
+        sc.close();
     
         int resultado = base * altura;
 
